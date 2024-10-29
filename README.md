@@ -6,3 +6,5 @@ The quadrifoglio logo was pulled from period photos of 1600 GTAs. I was unsatisf
 You'll need to make two of the points-right (LH fender & rear) and one of the points-left (RH fender). Fender stems point towards the rear of the car, and the rear stem points right.
 
 I intend to have these laser printed on white waterslide stock using a green spot color (TBD). Cut lines are in magenta.
+
+![qf-points-right](https://github.com/user-attachments/assets/0de8f554-1ad1-463f-9fda-4766e6ead647)
